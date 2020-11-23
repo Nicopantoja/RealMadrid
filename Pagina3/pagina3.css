@@ -1,0 +1,122 @@
+*{
+margin:2px 0px 0px 1px;
+padding:0px 0px 0px 1px;
+font-family:sans-serif;
+}
+
+body{
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+.lista{
+font-family: sans-serif;
+margin: 40px 0px 0px 0px;
+}
+
+.lista h3{
+font-size:22px;
+margin: 7px 0px 0px 0px;
+}
+
+.lista ul li a{
+color:#353434;
+text-decoration:none;
+font-size:20px; 
+}
+
+.lista ul li a:hover {
+color:#565555;
+font-size:22px;
+}
+
+.lista ul li{
+color:#5F5E5E;
+list-style-type:disc;
+}
+
+.lista ul{
+margin: 0px 0px 0px 18px;
+}
+
+.login{
+margin: 3px 0px 0px 0px;
+}
+
+.enviar{
+margin: 8px 0px 0px 30px;
+color:#3E3E3E;
+}
+
+.login form input{
+width:90%;
+height:25px;
+border: 2px solid grey;
+border-radius: 4px;
+}
+
+.login form h4{
+font-family:sans-serif;
+}
+
+.login h2{
+font-color:#34495E;
+} 
+
+.login form .enviar{
+width:50%;
+background-color:#CECECE;
+font-family:Tahoma;
+letter-spacing:1px;
+}
+
+
+.tab{
+width:80px;
+margin: 0px 0px px -5px;
+padding: 0px 0px 0px 0px;
+position: absolute;
+top: 70%;
+left: 0%;
+transform: translate(0%,0%);
+}
+
+.tab td{
+width:50px;
+}
+
+.tab img{
+width:72px;
+}
+
+.hr1{
+width:100%;
+margin: 20px -5px 0px -6px;
+border-color:#E6E6E6;
+background-color:#C3C3C3;
+}
+
+
+.hr2{
+width:100%;
+margin: 20px -5px 0px -6px;
+border-color:#fff;
+background-color:#C3C3C3;
+position: absolute;
+top: 65%;
+left: 0%;
+transform: translate(0%,0%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
