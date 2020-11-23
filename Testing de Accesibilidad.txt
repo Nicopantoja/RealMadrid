@@ -1,0 +1,49 @@
+MobSF es un entorno completo de análisis que permite hacer pruebas estáticas y dinámicas en ejecutables de Android
+
+Testing de Accesibilidad 
+
+Conjunto de medidas que se toman en el diseño 
+
+La accesibilidad como derecho legal
+
+ADA: toda persona con discapacidad puede hacer a todo lo que una persona sin discapacidad puede.
+
+W3C:Consorcio internacional
+WAI
+
+WCAG
+Categorias: 
+A es accesible
+AA Medio
+AAA No lo es
+
+4 principios fundamentales
+
+Percibible: La informacion y os componentes de la interfaz deben poder ser persividas por todos los usarios
+
+Proporciona alternativa de texto.
+Braille, sirve para los sordos mudos.
+
+Deed Learning
+
+Operable
+Todas las funciones deben ser alcanzados por un teclado
+
+COmprensible 
+Tanto la información como el funcionamiento
+
+Robusto
+El contenido y la estrucutura debe ser lo sufiencientemente robusto para ser ejecutado de mandera confiable por una amplia variedad de devices. 
+
+WAI ARIA: Enriquese la sintaxis de HTML, lo hace más accesible
+
+1_ Diagnóstico (reportes de bugs y auditorias)
+2_ Peritaje para demandas
+3_ Caso de uso
+4_ Casos de  prueba
+5_ Retest
+
+Testing de Accesibilidad
+Testing de Seguridad
+Testing Automatización 
+
