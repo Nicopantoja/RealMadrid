@@ -1,0 +1,850 @@
+body{
+overflow-x:hidden;
+}
+
+.portada{
+width:1170;
+height:700px;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+
+.portada .port{
+width:480px;
+height:270px;
+float:left;
+}
+
+.portada .port h1{
+font-family:sans-serif;
+font-size:70px;
+color:#3C3C3C;
+font-weight: lighter;
+letter-spacing: -4px;
+}
+
+.portada .port h3{
+margin: -40px 0px 0px 0px;
+font-family:sans-serif;
+font-size:23px;
+color:#888383;
+font-weight: lighter;
+letter-spacing: -1px;
+}
+
+.portada .port .adul h4{
+margin: 40px 0px 0px 0px;
+font-family:sans-serif;
+font-size:18px;
+color:#888383;
+}
+
+.portada .port .adul h4 .tres{
+margin: 40px 0px 0px 0px;
+font-family:sans-serif;
+font-size:26px;
+color:#000;
+}
+
+.portada .port .junior h4{
+margin: 40px 0px 0px 0px;
+font-family:sans-serif;
+font-size:18px;
+color:#888383;
+}
+
+.portada .port .junior h4 .tres{
+margin: 40px 0px 0px 0px;
+font-family:sans-serif;
+font-size:26px;
+color:#000;
+}
+
+.portada .solicita{
+width:270px;
+height:163px;
+float:left;
+}
+
+.portada .video{
+width:620px;
+height:650px;
+margin: 0px 0px 0px 50px;
+padding: 0px 0px 0px 0px;
+float:left;
+}
+
+.portada .video a img{
+margin: 0px 0px 0px 0px;
+padding: 20px 20px 20px 15px;
+width: 600px;
+height: 600px;
+}
+
+.portada .soli{
+background-color:#0255A5;
+width:270px;
+height:40px;
+float:left;
+margin: -200px 0px 0px 100px;
+}
+
+.portada .soli h3{
+margin: 8px 0px 0px 30px;
+color:#fff;
+}
+
+
+
+
+
+.ventajas{
+width: 1270px;
+height: 600px;
+position: relative;
+display: inline-block;
+padding: 0px 0px 0px 20px;
+}
+
+.ventajas h2{
+color#:151515;
+font-family: sans-serif;
+font-size:30px;
+letter-spacing: -3px;
+margin: 0px 0px 0px 6px;
+}
+
+.ventajas .barra{
+width:400px;
+height:15px;
+margin: 0px 0px 0px 6px;
+}
+
+.ventajas .uno{
+width:550px;
+height:338px;
+background-color:#112255;
+float:left;
+margin: 5px 5px -5px 5px;
+}
+
+.ventajas .uno img{
+width:550px;
+height:338px;
+}
+
+.ventajas .uno .tuno{
+width:163px;
+height:50px;
+}
+
+.ventajas .uno .tuno h5{
+position: absolute;
+top:230px;
+left:30px;
+transform: translate (0%,0%);
+font-size:35px;
+font-weight: lighter;
+letter-spacing: -1px;
+font-family:sans-serif;
+}
+
+.ventajas .dos{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .dos img{
+width:270px;
+height:163px;
+}
+
+.ventajas .dos .tdos{
+width:127px;
+height:158px;
+background-color:#ccc;
+position: absolute;
+top:65px;
+left: 585px;
+transform: translate (0%,0%);
+}
+
+.ventajas .dos .tdos h5{
+width:122px;
+height:161px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.ventajas .tres{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .tres img{
+width:270px;
+height:163px;
+}
+
+.ventajas .tres .ttres{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top:63px;
+left: 865px;
+transform: translate (0%,0%);
+}
+
+.ventajas .tres .ttres h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.ventajas .cuatro{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .cuatro img{
+width:270px;
+height:163px;
+}
+
+.ventajas .cuatro .tcuatro{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top: 235px;
+left: 865px;
+transform: translate (0%,0%);
+}
+
+.ventajas .cuatro .tcuatro h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.ventajas .cinco{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .cinco img{
+width:270px;
+height:163px;
+}
+
+.ventajas .cinco .tcinco{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top: 235px;
+left: 585px;
+transform: translate (0%,0%);
+}
+
+.ventajas .cinco .tcinco h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.ventajas .seis{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .seis img{
+width:270px;
+height:163px;
+}
+
+.ventajas .seis .tseis{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top:409px;
+left: 25px;
+transform: translate (0%,0%);
+}
+
+.ventajas .seis .tseis h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.ventajas .siete{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .siete img{
+width:270px;
+height:163px;
+}
+
+.ventajas .siete .tsiete{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top:409px;
+left: 305px;
+transform: translate (0%,0%);
+}
+
+.ventajas .siete .tsiete h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.ventajas .ocho{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .ocho img{
+width:270px;
+height:163px;
+}
+
+.ventajas .ocho .tocho{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top:409px;
+left: 585px;
+transform: translate (0%,0%);
+}
+
+.ventajas .ocho .tocho h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.ventajas .nueve{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.ventajas .nueve img{
+width:270px;
+height:163px;
+}
+
+.ventajas .nueve .tnueve{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top: 409px;
+left: 865px;
+transform: translate (0%,0%);
+}
+
+.ventajas .nueve .tnueve h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+
+
+.vienes{
+width: 1270px;
+height: 300px;
+position: relative;
+display: inline-block;
+margin: 100px 0px 0px 0px;
+padding: 0px 0px 0px 20px;
+}
+
+.vienes h2{
+color#:151515;
+font-family: sans-serif;
+font-size:30px;
+letter-spacing: -3px;
+margin: 0px 0px 0px 6px;
+}
+.vienes .barra{
+width:400px;
+height:15px;
+margin: 0px 0px 0px 6px;
+}
+
+.vienes .vuno{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.vienes .vuno img{
+width:270px;
+height:163px;
+}
+
+.vienes .vuno .iuno{
+width:135px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top: 62px;
+left: 25px;
+transform: translate (0%,0%);
+}
+
+.vienes .vuno .iuno h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.vienes .vdos{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.vienes .vdos img{
+width:270px;
+height:163px;
+}
+
+.vienes .vdos .idos{
+width:135px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top: 62px;
+left: 305px;
+transform: translate (0%,0%);
+}
+
+.vienes .vdos .idos h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.vienes .vtres{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.vienes .vtres img{
+width:270px;
+height:163px;
+}
+
+.vienes .vtres .itres{
+width:152px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top: 62px;
+left: 585px;
+transform: translate (0%,0%);
+}
+
+.vienes .vtres .itres h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.vienes .vcuatro{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.vienes .vcuatro img{
+width:270px;
+height:163px;
+}
+
+.vienes .vcuatro .icuatro{
+width:127px;
+height:163px;
+background-color:#ccc;
+position: absolute;
+top: 62px;
+left: 865px;
+transform: translate (0%,0%);
+}
+
+.vienes .vcuatro .icuatro h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: 500;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+
+
+.mas{
+background-image:url(baner.png);
+width:105%;
+height:400px;
+position: relative;
+display: inline-block;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+
+.mas .titu h1{
+color:#0255A5;
+font-size:60px;
+letter-spacing: -3px;
+font-family: sans-serif;
+font-weight: lighter;
+}
+
+.mas .titul h2{
+color#:151515;
+font-family: sans-serif;
+font-size:30px;
+letter-spacing: -3px;
+margin: 0px 0px 0px 6px;
+}
+.mas .barra{
+width:450px;
+height:15px;
+margin: 0px 0px 0px 6px;
+}
+
+.mas .aununo{
+width:270px;
+height:160px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.mas .aununo img{
+width:270px;
+height:163px;
+}
+
+.mas .aununo .iuno{
+width:130px;
+height:164px;
+background-color:#ccc;
+position: absolute;
+top: 212px;
+left: 5px;
+transform: translate (0%,0%);
+}
+
+.mas .aununo .iuno h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.mas .aundos{
+width:270px;
+height:163px;
+background-color:#112255;
+float:left;
+margin: 5px 5px 5px 5px;
+}
+
+.mas .aundos img{
+width:270px;
+height:163px;
+}
+
+.mas .aundos .idos{
+width:128px;
+height:164px;
+background-color:#ccc;
+position: absolute;
+top: 212px;
+left: 285px;
+transform: translate (0%,0%);
+}
+
+.mas .aundos .idos h5{
+width:122px;
+height:163px;
+font-size:22px;
+font-weight: lighter;
+letter-spacing: -2px;
+font-family:sans-serif;
+}
+
+.mas .mod{
+width:500px;
+height:500px;
+margin: -75px 0px 0px 650px;
+}
+
+.mas .mod .modt{
+font-family: sans-serif;
+font-size:20px;
+color:#454546;
+letter-spacing: -2px;
+margin: 0px 0px 0px 0px;
+}
+
+.mas .mod .modp .edad{
+width:95px;
+margin: 0px 0px 0px 0px;
+float:left;
+font-family: sans-serif;
+}
+
+.mas .mod .modp .euro{
+width:95px;
+margin: 0px 0px 0px 15px;
+float:left;
+font-family: sans-serif;
+}
+
+.mas .mod .modp h2{
+width:30px;
+margin: -15px 0px 0px 0px;
+font-size: 38px;
+float:left;
+font-family: sans-serif;
+}
+
+.especial{
+width:300px;
+height: 35px;
+color:#fff;
+margin: 90px 0px 0px 80px;
+padding: 17px 0px 0px 0px;
+font-family: sans-serif;
+}
+
+.noticias{
+width:105%;
+height:490px;
+position: relative;
+display: inline-block;
+margin: 100px 0px 70px 0px;
+padding: 0px 0px 0px 0px;
+}
+
+.noticias .titulo h1{
+color#:151515;
+font-family: sans-serif;
+font-size:30px;
+letter-spacing: -3px;
+margin: 0px 0px 0px 6px;
+}
+
+.noticias .barra{
+width:320px;
+height:15px;
+margin: 0px 0px 0px 6px;
+}
+
+.noticias .notiuno{
+width: 370px;
+height: 420px;
+float: left;
+margin: 10px 10px 0px 10px;
+border-style: solid;
+border-width:1px;
+border-color:#A4A4A4;
+}
+
+.noticias .notiuno img{
+width: 370px;
+height: 170px;
+margin: -8px 0px 0px 0px;
+}
+
+.noticias .notiuno h5{
+color: #AFAFAF;
+font-size: 15px;
+font-family: sans-serif;
+margin: 15px 0px 0px 15px;
+}
+
+.noticias .notiuno h4{
+color: #232323;
+width: 348px;
+font-size: 21px;
+font-family: sans-serif;
+margin: 8px 0px 0px 15px;
+}
+
+.noticias .notiuno h3{
+color: #656667;
+width: 348px;
+font-size: 17px;
+font-family: sans-serif;
+margin: 8px 0px 0px 15px;
+}
+
+.noticias .notidos{
+width: 370px;
+height: 420px;
+float: left;
+margin: 10px 10px 0px 5px;
+border-style: solid;
+border-width:1px;
+border-color:#A4A4A4;
+}
+
+.noticias .notidos img{
+width: 370px;
+height: 170px;
+margin: -8px 0px 0px 0px;
+}
+
+
+.noticias .notidos h5{
+color: #AFAFAF;
+font-size: 15px;
+font-family: sans-serif;
+margin: 15px 0px 0px 15px;
+}
+
+.noticias .notidos h4{
+color: #232323;
+width: 348px;
+font-size: 21px;
+font-family: sans-serif;
+margin: 8px 0px 0px 15px;
+}
+
+.noticias .notidos h3{
+color: #656667;
+width: 348px;
+font-size: 17px;
+font-family: sans-serif;
+margin: 8px 0px 0px 15px;
+}
+
+.noticias .notitres{
+width: 370px;
+height: 420px;
+float: left;
+margin: 10px 10px 0px 5px;
+border-style: solid;
+border-width:1px;
+border-color:#A4A4A4;
+}
+
+.noticias .notitres img{
+width: 370px;
+height: 170px;
+margin: -8px 0px 0px 0px;
+}
+
+.noticias .notitres h5{
+color: #AFAFAF;
+font-size: 15px;
+font-family: sans-serif;
+margin: 15px 0px 0px 15px;
+}
+
+.noticias .notitres h4{
+color: #232323;
+width: 348px;
+font-size: 21px;
+font-family: sans-serif;
+margin: 8px 0px 0px 15px;
+}
+
+.noticias .notitres h3{
+color: #656667;
+width: 348px;
+font-size: 17px;
+font-family: sans-serif;
+margin: 8px 0px 0px 15px;
+}
+
+
+
+
+
+
+
+
+
